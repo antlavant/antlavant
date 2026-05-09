@@ -8,7 +8,7 @@ Leicester 🇬🇧 --> 🇺🇸 Florida (a trail as old as time)
 
 ## 🚀 Projects
 
-### 🔍 
+### 🔍 [heurisko.digital](https://heurisko.digital)
 **Search Consultancy** helping businesses navigate the complexities of rapidly-evolving search platforms. From reporting and SEO strategy to technical audits and beyond.
 
 ### 📊 [StashClicks](https://stashclicks.com)
