@@ -12,7 +12,7 @@ Leicester 🇬🇧 --> 🇺🇸 Florida (a trail as old as time)
 **Search Consultancy** helping businesses navigate the complexities of rapidly-evolving search platforms. From reporting and SEO strategy to technical audits and beyond.
 
 ### 📊 [StashClicks](https://stashclicks.com)
-**SaaS** When working in an agency with zero developer resource, I longed for a tool like Stash Clicks to retain more than 16 months of Google Search Console data and mitigate cumbersome Looker studio builds. Stash Clicks was built to solve that problem. Stash Clicks helps agencies and brands retain more than 16 months of data, so you never lose sight of long-term trends, algorithm impacts, or seasonal patterns, while juggling websites.
+**SaaS** When working in an agency with no developer resource, I longed for a tool like Stash Clicks. It retains more than 16 months of Google Search Console data and mitigates cumbersome Looker studio builds. Stash Clicks ensures agencies and brands never lose sight of what's happening to their sites in Google. Most of the features are 100% free too.
 
 ---
 
