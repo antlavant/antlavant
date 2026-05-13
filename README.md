@@ -8,10 +8,10 @@ Leicester 🇬🇧 --> 🇺🇸 Florida (a trail as old as time)
 
 ## 🚀 Projects
 
-### 🔍 [heurisko.digital](https://heurisko.digital)
+### 🔍 [Heurisko](https://heurisko.digital)
 **Search Consultancy** helping businesses navigate the complexities of rapidly-evolving search platforms. From reporting and SEO strategy to technical audits and beyond.
 
-### 📊 [StashClicks](https://stashclicks.com)
+### 📊 [Stash Clicks](https://stashclicks.com)
 **SaaS** When working in an agency with no developer resource, I longed for a tool like Stash Clicks. It retains more than 16 months of Google Search Console data and mitigates cumbersome Looker studio builds. Stash Clicks ensures agencies and brands never lose sight of what's happening to their sites in Google. Most of the features are 100% free too.
 
 ---
